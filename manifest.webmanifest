@@ -1,6 +1,6 @@
 {
   "name": "Meteo",
-  "short_name": "MEteo",
+  "short_name": "Meteo",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

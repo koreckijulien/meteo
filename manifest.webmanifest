@@ -6,6 +6,6 @@
   "display": "standalone",
   "icons": [
     { "src": "icone-meteo.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
-  { "src": "icon-meteo.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  { "src": "icone-meteo.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
